@@ -1,1 +1,0 @@
-# ninjaneural.github.io
